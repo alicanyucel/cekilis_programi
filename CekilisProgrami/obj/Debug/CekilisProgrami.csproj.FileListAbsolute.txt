@@ -1,0 +1,10 @@
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\bin\Debug\CekilisProgrami.exe.config
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\bin\Debug\CekilisProgrami.exe
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\bin\Debug\CekilisProgrami.pdb
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.csprojAssemblyReference.cache
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.Form1.resources
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.Properties.Resources.resources
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.csproj.GenerateResource.cache
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.exe
+C:\Users\ali\source\repos\CekilisProgrami\CekilisProgrami\obj\Debug\CekilisProgrami.pdb
